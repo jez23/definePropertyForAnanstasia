@@ -28,7 +28,6 @@ function createNewUser() {
         writable: false,
         configurable: true
     })
-    console.log()
     return newUser;
 }
 
